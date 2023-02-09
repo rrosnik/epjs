@@ -1,0 +1,6 @@
+node_modules/
+src/
+test/
+teconfig.json
+webpack.coonfig.js
+.gitignore
