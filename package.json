@@ -17,5 +17,8 @@
     "chart"
   ],
   "author": "Reza Rostaminikoo <RezaRostamiNikoo@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.75.0"
+  }
 }
