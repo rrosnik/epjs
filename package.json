@@ -1,0 +1,21 @@
+{
+  "name": "epjs",
+  "version": "1.0.0",
+  "description": "this package is to analysis and parsing the result of energy plus software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "energy",
+    "plus",
+    "analysis",
+    "eplus",
+    "digram",
+    "result",
+    "parsing",
+    "chart"
+  ],
+  "author": "Reza Rostaminikoo <RezaRostamiNikoo@gmail.com>",
+  "license": "MIT"
+}
