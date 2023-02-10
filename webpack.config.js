@@ -8,6 +8,7 @@ const isProduction = process.env.NODE_ENV == 'production';
 const config = {
     entry: './src/index.ts',
     output: {
+        filename: "index.js",
         path: path.resolve(__dirname, 'dist'),
         library :{
             type: "commonjs2",
